@@ -1,4 +1,4 @@
-###Traffic Light
+##Traffic Light
 
 A trafic light designed with React and CSS.
 
